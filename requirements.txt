@@ -1,0 +1,20 @@
+# Basics
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+tensorflow
+torch
+jupyter
+spacy
+numba
+
+# GPU helping
+pynvml
+accelerate
+nvidia-ml-py3
+
+# HuggingFace
+transformers
+datasets
